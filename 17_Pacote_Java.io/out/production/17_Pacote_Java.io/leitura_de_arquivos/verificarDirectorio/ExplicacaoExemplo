@@ -1,0 +1,8 @@
+                                                EXPLICACAO DO EXEMPLO
+Criamos um objeto f do tipo File a partir de um caminho recebido, este objeto será utilizado para representar um arquivo ou diretório.
+
+Verificamos se o objeto f é um arquivo, através do método isFile() da classe File, caso retorne true,
+então irá imprimir a mensagem informando que o caminho é referente a um arquivo.
+
+Caso contrário, verificamos se o objeto f é um diretório, através do método isDirectory() da classe File,
+ caso retorne true, então irá imprimir a mensagem informando que o caminho é referente a um diretório.

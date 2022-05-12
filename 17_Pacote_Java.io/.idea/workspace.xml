@@ -1,22 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d62bfec3-4f23-4c2b-aa15-8c068326c38b" name="Changes" comment="" />
+    <list default="true" id="d62bfec3-4f23-4c2b-aa15-8c068326c38b" name="Changes" comment="Comit do projecto poo, manipulacao de arquivos">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leitura_de_arquivos/Leitura de Arquivos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leitura_de_arquivos/ler_imprimirNoConsole/ExemploFileInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leitura_de_arquivos/ler_imprimirNoConsole/Explicacao.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leitura_de_arquivos/verificarDirectorio/ExemploFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leitura_de_arquivos/verificarDirectorio/ExemploFileMetodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leitura_de_arquivos/verificarDirectorio/ExplicacaoExemplo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="2932BJi4enDD8WsKweJtYYFHSnD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\estudos\Java\JavaPoo_Cealum\17_Pacote_Java.io\src\leitura_de_arquivos\verificarDirectorio" />
+      <recent name="C:\Users\Admin\Documents\estudos\Java\JavaPoo_Cealum\17_Pacote_Java.io\src\InputStream_InpurStreamReader_BuferredReader" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ExemploFileInputStream">
+    <configuration name="ExemploFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leitura_de_arquivos.verificarDirectorio.ExemploFile" />
+      <module name="17_Pacote_Java.io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leitura_de_arquivos.verificarDirectorio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploFileInputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leitura_de_arquivos.ler_imprimirNoConsole.ExemploFileInputStream" />
+      <module name="17_Pacote_Java.io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leitura_de_arquivos.ler_imprimirNoConsole.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploFileMetodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leitura_de_arquivos.verificarDirectorio.ExemploFileMetodos" />
+      <module name="17_Pacote_Java.io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leitura_de_arquivos.verificarDirectorio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="escreverArquivos.Teste" />
+      <module name="17_Pacote_Java.io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="escreverArquivos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LerStringsTeclado.Teste" />
+      <module name="17_Pacote_Java.io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LerStringsTeclado.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExemploFileInputStream" />
+        <item itemvalue="Application.ExemploFileMetodos" />
+        <item itemvalue="Application.ExemploFile" />
+        <item itemvalue="Application.Teste (1)" />
+        <item itemvalue="Application.Teste" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -28,5 +134,22 @@
       <updated>1652327312389</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Comit do projecto poo, manipulacao de arquivos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comit do projecto poo, manipulacao de arquivos" />
   </component>
 </project>

@@ -1,0 +1,12 @@
+
+
+Criamos um objeto do tipo FileInputStream, seu construtor recebe uma String com um caminho de arquivo, esta classe lê os bytes do arquivo.
+
+Para percorrer os bytes do arquivo, vamos declarar uma variável int c que será utilizada para guardar os caracteres lidos do arquivo,
+lembre-se que todos os caracteres em Java são representados por um número inteiro.
+
+Percorremos todo o arquivo e fazer o casting de inteiro para caractere,
+para imprimir o texto do arquivo, note que se o valor lido através do método read() for igual a -1, significa que chegamos ao final do arquivo.
+
+Também precisamos tratar as exceções que podem ser lançadas durante a leitura de um arquivo.
+Sempre que estiver manipulando um arquivo, lembre-se de fechar o arquivo utilizando o método close().
