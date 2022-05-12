@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d62bfec3-4f23-4c2b-aa15-8c068326c38b" name="Changes" comment="Comit do projecto poo, manipulacao de arquivos">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leitura_de_arquivos/Leitura de Arquivos.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leitura_de_arquivos/ler_imprimirNoConsole/ExemploFileInputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leitura_de_arquivos/ler_imprimirNoConsole/Explicacao.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leitura_de_arquivos/verificarDirectorio/ExemploFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leitura_de_arquivos/verificarDirectorio/ExemploFileMetodos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leitura_de_arquivos/verificarDirectorio/ExplicacaoExemplo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams_de_caracteres/Stream de caracteres.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams_de_caracteres/java_io_reader/ExemploReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams_de_caracteres/java_io_reader/java.io.reader.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams_de_caracteres/java_io_writer/ExemploWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams_de_caracteres/java_io_writer/Explicacao.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams_de_caracteres/java_io_writer/Origem.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +46,7 @@
       <recent name="C:\Users\Admin\Documents\estudos\Java\JavaPoo_Cealum\17_Pacote_Java.io\src\InputStream_InpurStreamReader_BuferredReader" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExemploFileInputStream">
+  <component name="RunManager" selected="Application.ExemploWriter">
     <configuration name="ExemploFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leitura_de_arquivos.verificarDirectorio.ExemploFile" />
       <module name="17_Pacote_Java.io" />
@@ -88,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Teste (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="escreverArquivos.Teste" />
+    <configuration name="ExemploReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams_de_caracteres.java_io_reader.ExemploReader" />
       <module name="17_Pacote_Java.io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="escreverArquivos.*" />
+          <option name="PATTERN" value="Streams_de_caracteres.java_io_reader.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LerStringsTeclado.Teste" />
+    <configuration name="ExemploWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams_de_caracteres.java_io_writer.ExemploWriter" />
       <module name="17_Pacote_Java.io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LerStringsTeclado.*" />
+          <option name="PATTERN" value="Streams_de_caracteres.java_io_writer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExemploWriter" />
+        <item itemvalue="Application.ExemploReader" />
         <item itemvalue="Application.ExemploFileInputStream" />
         <item itemvalue="Application.ExemploFileMetodos" />
         <item itemvalue="Application.ExemploFile" />
-        <item itemvalue="Application.Teste (1)" />
-        <item itemvalue="Application.Teste" />
       </list>
     </recent_temporary>
   </component>

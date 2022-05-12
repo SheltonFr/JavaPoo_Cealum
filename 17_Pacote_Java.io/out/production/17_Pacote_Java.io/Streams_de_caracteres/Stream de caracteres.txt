@@ -1,0 +1,4 @@
+                            Streams de caracteres
+Streams de caracteres é a forma como trabalhamos com os próprios caracteres lidos do arquivo,
+e a partir desses caracteres podemos adicionar filtros em cima deles.
+Exemplos destes leitores são as classes abstratas java.io.Reader e java.io.Writer.
