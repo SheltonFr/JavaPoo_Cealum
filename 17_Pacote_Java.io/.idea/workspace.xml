@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d62bfec3-4f23-4c2b-aa15-8c068326c38b" name="Changes" comment="Comit do projecto poo, manipulacao de arquivos">
-      <change afterPath="$PROJECT_DIR$/src/Streams_de_caracteres/Stream de caracteres.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams_de_caracteres/java_io_reader/ExemploReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams_de_caracteres/java_io_reader/java.io.reader.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams_de_caracteres/java_io_writer/ExemploWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams_de_caracteres/java_io_writer/Explicacao.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams_de_caracteres/java_io_writer/Origem.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/buffredWriter/Teste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/17_Pacote_Java.io/Streams_de_caracteres/java_io_writer/chegada.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/17_Pacote_Java.io/Streams_de_caracteres/java_io_writer/chegada.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Streams_de_caracteres/java_io_writer/Explicacao.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Streams_de_caracteres/java_io_writer/Explicacao.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Streams_de_caracteres/java_io_writer/chegada.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

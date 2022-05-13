@@ -1,3 +1,10 @@
                                             java.io.Writer
 A classe java.io.Writer é uma classe abstrata que representa um fluxo de saída de dados tratados como caracteres.
 Essa classe possui várias subclasses dedicadas a cada fonte de dados específica, tais como a classe java.io.FileWriter.
+
+                                                O Exemplo
+Criamos um objeto do tipo FileReader, para ler o arquivo.
+Criamos um objeto do tipo FileWriter, para criar um novo arquivo e escrever nele as informações do arquivo que será lido.
+
+Percorremos os caracteres do arquivo de entrada e gravaremos os caracteres lidos no arquivo de saída.
+Para liberar os recurso lembre-se de fechar o arquivo de entrada e o arquivo de saída.
